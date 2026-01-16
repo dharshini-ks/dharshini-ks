@@ -45,35 +45,6 @@ after completing my degree.
 
 ---
 
-## 🚀 Projects
-
-### 🔹 React Portfolio Website
-A personal portfolio website built using React to showcase my skills and projects.
-
-- **Features:** Reusable components, responsive layout, clean UI
-- **Tech:** React, CSS
-- **Type:** Frontend Project
-
----
-
-### 🔹 JavaScript Calculator
-A functional and colorful calculator built using HTML, CSS, and JavaScript.
-
-- **Features:** Button-based input handling, real-time calculation
-- **Tech:** HTML, CSS, JavaScript
-- **Type:** Beginner JavaScript Project
-
----
-
-### 🔹 Todo List App (React)
-A simple todo application to manage daily tasks.
-
-- **Features:** Add, delete tasks, state management
-- **Tech:** React, JavaScript
-- **Type:** React Practice Project
-
----
-
 ## 🎓 Education
 **BSc Computer Science**  
 Bishop Heber College  
